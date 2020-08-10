@@ -1,0 +1,7 @@
+facenet, deepface, deepid
+
+usporedba 3 okvira po brzini prepoznavanja 2 iste face
+usporedba 3 okvira po brzini prepoznavanja face u skupu od 10 slika
+usporedba svakog od 3 okvira na temelju računanja vrsta udaljenosti
+usporedba svakog od okvira na temelju 3 veličine slika
+usporedba detektiranja lica na 3 slike

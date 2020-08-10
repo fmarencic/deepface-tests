@@ -1,0 +1,67 @@
+20 slika
+
+                        identity  distance
+0  ./dataset/test1_wozniacki.jpg  0.746957 
+Vrijeme potrebno:  9.486860752105713
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  62.41412353515625
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  5.5412821769714355
+
+10 slika
+
+
+                        identity  distance
+0  ./dataset/test1_wozniacki.jpg  0.746957
+Vrijeme potrebno:  8.001081228256226
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  62.44312572479248
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  2.2518341541290283
+
+
+5 slika
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: [] 
+Vrijeme potrebno:  6.998004198074341
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  61.79303574562073
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  1.54353928565979
+
+15 slika
+
+
+                        identity  distance
+0  ./15slika/test1_wozniacki.jpg  0.746956 
+Vrijeme potrebno:  8.76108193397522
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  64.34361362457275
+
+Empty DataFrame
+Columns: [identity, distance]
+Index: []
+Vrijeme potrebno:  4.097286701202393
